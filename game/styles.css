@@ -1,0 +1,41 @@
+/* Lumenhold page chrome: a dark backdrop with the 1280x720 game canvas
+   centred. All of the game itself is drawn on the canvas. */
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: #070a16;
+  overflow: hidden;
+}
+
+main {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#game {
+  display: block;
+  background: #0b1026;
+  cursor: pointer;
+  box-shadow: 0 0 60px rgba(60, 70, 140, 0.35);
+}
+
+/* Read aloud, never shown: the status line screen readers announce. */
+#status {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.noscript {
+  color: #eef1ff;
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+  text-align: center;
+}
