@@ -1,5 +1,9 @@
 # Lumenhold — Siege of the Last Lantern
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/rsrizal2-ai/best-game-01-kira/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/rsrizal2-ai/best-game-01-kira/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 An original night-garden tower defense, built for make.fun's "Make the best game" bounty. The moths of the Hollow follow the stone path to the Last Lantern. Raise lanterns along their path, kindle them brighter, and hold the flame through 12 waves until dawn.
 
 ## The game
@@ -37,3 +41,7 @@ The screenshots were staged with the game's own `?shot=` mode (see `game/src/sho
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=3a433hx8&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
